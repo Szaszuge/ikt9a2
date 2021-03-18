@@ -6,3 +6,4 @@ hozzáadok mégegy sort
 ezt mán githábon írtam
 VS code konfliktus
 conflict
+NE CSINALJAD A KONFLIKTUST
